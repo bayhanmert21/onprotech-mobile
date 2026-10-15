@@ -1,0 +1,9 @@
+{
+  "appId": "com.onprotech.security",
+  "appName": "ONPROTECH",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
